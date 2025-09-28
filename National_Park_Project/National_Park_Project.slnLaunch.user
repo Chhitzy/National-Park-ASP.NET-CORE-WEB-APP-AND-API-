@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\National_Park_Web_App\\National_Park_Web_App.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "National_Park_Project.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

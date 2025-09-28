@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio Projects\\National_Park_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|c:\\visual studio projects\\national_park_project\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|c:\\visual studio projects\\national_park_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|c:\\visual studio projects\\national_park_project\\controllers\\nationalparkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|solutionrelative:controllers\\nationalparkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|c:\\visual studio projects\\national_park_project\\controllers\\trailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|solutionrelative:controllers\\trailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|c:\\visual studio projects\\national_park_project\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|solutionrelative:configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|c:\\visual studio projects\\national_park_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|c:\\visual studio projects\\national_park_project\\migrations\\20250826100401_adduserstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336263CE-75EC-4F02-A48C-ED69E0D523D3}|National_Park_Project.csproj|solutionrelative:migrations\\20250826100401_adduserstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\National_Park_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Visual Studio Projects\\National_Park_Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T10:06:21.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\National_Park_Project\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Visual Studio Projects\\National_Park_Project\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:24:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrailController.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\National_Park_Project\\Controllers\\TrailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrailController.cs",
+              "ToolTip": "C:\\Visual Studio Projects\\National_Park_Project\\Controllers\\TrailController.cs",
+              "RelativeToolTip": "Controllers\\TrailController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:24:30.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NationalParkController.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\National_Park_Project\\Controllers\\NationalParkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NationalParkController.cs",
+              "ToolTip": "C:\\Visual Studio Projects\\National_Park_Project\\Controllers\\NationalParkController.cs",
+              "RelativeToolTip": "Controllers\\NationalParkController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:24:20.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\National_Park_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Visual Studio Projects\\National_Park_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:15:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\National_Park_Project\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Visual Studio Projects\\National_Park_Project\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "ConfigureSwaggerOptions.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:02:40.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250826100401_ADDUSERSTODB.cs",
+              "DocumentMoniker": "C:\\Visual Studio Projects\\National_Park_Project\\Migrations\\20250826100401_ADDUSERSTODB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250826100401_ADDUSERSTODB.cs",
+              "ToolTip": "C:\\Visual Studio Projects\\National_Park_Project\\Migrations\\20250826100401_ADDUSERSTODB.cs",
+              "RelativeToolTip": "Migrations\\20250826100401_ADDUSERSTODB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:04:02.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

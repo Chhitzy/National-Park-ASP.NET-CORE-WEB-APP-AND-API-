@@ -1,0 +1,215 @@
+[
+  {
+    "ContainingType": "National_Park_Project.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "National_Park_Project.Model.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/Account/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "National_Park_Project.Model.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.NationalParkController",
+    "Method": "GetNationalParks",
+    "RelativePath": "api/NationalPark",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.NationalParkController",
+    "Method": "CreateNationalPark",
+    "RelativePath": "api/NationalPark",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalParkDto",
+        "Type": "National_Park_Project.Model.DTOs.NationalParkDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.NationalParkController",
+    "Method": "UpdateNationalPark",
+    "RelativePath": "api/NationalPark",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalPark",
+        "Type": "National_Park_Project.Model.DTOs.NationalParkDTOs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.NationalParkController",
+    "Method": "GetNationalPark",
+    "RelativePath": "api/NationalPark/{nationalParkId }",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalParkId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nationalParkId ",
+        "Type": "",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetNationalPark"
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.NationalParkController",
+    "Method": "DeleteNationalPark",
+    "RelativePath": "api/NationalPark/{nationalParkId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nationalParkId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.TrailController",
+    "Method": "GetTrails",
+    "RelativePath": "api/Trail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.TrailController",
+    "Method": "CreateTrail",
+    "RelativePath": "api/Trail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trail",
+        "Type": "National_Park_Project.Model.DTOs.TrailDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.TrailController",
+    "Method": "UpdateTrail",
+    "RelativePath": "api/Trail",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailDTO",
+        "Type": "National_Park_Project.Model.DTOs.TrailDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.TrailController",
+    "Method": "GetTrail",
+    "RelativePath": "api/Trail/{trailid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "trailid",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "GetTrail"
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.TrailController",
+    "Method": "DeleteTrail",
+    "RelativePath": "api/Trail/{trailId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trailId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "National_Park_Project.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[National_Park_Project.WeatherForecast, National_Park_Project, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
